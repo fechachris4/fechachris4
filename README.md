@@ -1,5 +1,5 @@
 About Me
-- 👋 Hi, I’m Christian Akabueze, a final-year Mechanical engineering student🎓 and self-taught programmer who completed a summer internship at Expedia. Welcome to my Github @fechachris4
+- 👋 Hi, I’m Christian Akabueze, Mechanical engineering graduate🎓 and self-taught programmer. Welcome to my Github @fechachris4
 - 👀 I’m interested in a career where I can solve cool, hard problems.
 - 🌱 I'm actively learning and applying programming languages and tools. I’m currently learning C++ and how to use Python for Machine Learning.
 
