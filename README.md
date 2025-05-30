@@ -1,15 +1,12 @@
+Welcome to my Github
+
 About Me
-- 👋 Hi, I’m Christian Akabueze, Mechanical engineering graduate🎓 and self-taught programmer. Welcome to my Github @fechachris4
-- 👀 I’m interested in a career where I can solve cool, hard problems.
+
+- 👋 Hi, I’m Christian Akabueze, Mechanical engineering graduate🎓 and self-taught programmer and Incoming MSc student at Imperial in Robotics. Welcome to my Github
+- 👀 I’m interested in robotics and how can AI can improve the physical world?
 - 🌱 I'm actively learning and applying programming languages and tools. I’m currently learning C++ and how to use Python for Machine Learning.
 
-My journey has been marked by a constant pursuit of knowledge, leading me to explore the world of machine learning (ML) and its application in 3D printing for my final year project.
+There is a lot more about me, so connect with me and we can both learn from each other.
 
-Thank you for visiting my GitHub profile! I look forward to connecting with you.
+[https://www.linkedin.com/in/christian-akabueze-6621651b8/] | [fecha412@gmail.com] | [chrisfecha@gmail.com] | [cca25@ic.ac.uk]
 
-[https://www.linkedin.com/in/christian-akabueze] | [fecha412@gmail.com]
-
-<!---
-fechachris4/fechachris4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
