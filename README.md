@@ -1,24 +1,14 @@
-# Hi, I'm Christian Akabueze 👋
+# Christian Akabueze
 
-MSc Human and Biological Robotics student at **Imperial College London**.
+Robotics engineer. MSc Human and Biological Robotics, Imperial College London (2026).
+I build control systems for real robots and test them on real hardware.
 
-I build practical robotics and AI systems with a focus on:
-- **Predictive control**
-- **Human-robot interaction**
-- **Applied machine learning**
+**MSc thesis:** control software for a wearable robot with two Kinova Gen3 arms that keeps its tools still in the room while the wearer walks. Vicon tracking, Kalman filter, 400 Hz controller with a constrained joint-velocity QP. Tested in MuJoCo, then with seven people on a treadmill. Cancelled up to 71% of walking-induced tool motion.
 
-## Current Focus
-My current thesis explores **supernumerary robotic limbs**: two 7-DoF robotic arms mounted on a backpack, with predictive control for stabilization under perturbations.
+**Projects**
 
-## Background
-- MSc: Human and Biological Robotics — Imperial College London
-- BEng: Mechanical Engineering — Staffordshire University
-- Interests: Robotics, control systems, entrepreneurship
+- [Reinforcement_learning_for_Anesthesia](https://github.com/fechachris4/Reinforcement_learning_for_Anesthesia): Soft Actor-Critic agent controlling propofol dosing in a simulated patient (Eleveld model), benchmarked against a PID baseline.
 
-## Contact
-- Email: `cca25@ic.ac.uk`
-- Email: `chrisfecha@gmail.com`
-- Email: `fecha412@gmail.com`
+**Before robotics:** mechanical engineer on data-centre infrastructure; technical co-founder of a community events platform (3,500 members in three months).
 
----
-I like to keep things clear, practical, and impact-focused.
+fecha412@gmail.com · [LinkedIn](https://www.linkedin.com/in/christian-akabueze-6621651b8/)
