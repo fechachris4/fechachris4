@@ -3,11 +3,11 @@
 Robotics engineer. MSc Human and Biological Robotics, Imperial College London (2026).
 I build controllers for real robots, test them on hardware, and report what didn't work.
 
-### World-stable end-effectors on a walking wearer (MSc thesis)
+### [World-stable end-effectors on a walking wearer (MSc thesis)](https://github.com/fechachris4/msc_project)
 Two Kinova Gen3 arms worn on the torso hold their end-effectors fixed in the room while the wearer walks.
-Hardware trials on an instrumented treadmill with Vicon tracking, plus a MuJoCo study of what limits
-the controller. Python simulation with a C++20 port, tests and CI. The repository and results are
-private until the thesis is marked.
+With seven participants on an instrumented treadmill, the arms removed 56-71% of the mount motion.
+A MuJoCo study traces what is left to a late mount-velocity estimate. Python simulation with a C++20 port,
+tests and CI. Thesis under examination; linked once marked.
 
 ### SRL control stack (C++)
 The C++ control stack I wrote for the same dual-arm rig: a 500 Hz world-frame Cartesian loop on
