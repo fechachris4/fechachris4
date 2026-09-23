@@ -18,7 +18,7 @@ mount velocity estimated from 100 Hz Vicon, and separate planning, runtime and t
 
 ### [SAC vs PID for propofol anaesthesia](https://github.com/fechachris4/Reinforcement_learning_for_Anesthesia)
 30 held-out simulated patients, noisy BIS delayed by 20 s. Residual SAC tied a tuned PID (85.3% vs 84.9% in range);
-pure SAC lost (70%) after exploiting a reward loophole I then closed.
+pure SAC lost (70%). It first exploited a loophole in induction, which I closed before these results.
 
 **Before robotics:** mechanical engineer on data-centre infrastructure; technical co-founder
 of a community events platform (3,500 members in three months).
