@@ -13,7 +13,7 @@ erases feedforward's benefit (2.6 mm → 8.2 mm at 1.8 Hz). MuJoCo and Python, w
 that reproduces the Python trace to 2.4e-12. 261 Python tests and the C++ parity check run in CI.
 
 ### [SRL hardware controller](https://github.com/fechachris4/HumanSL_MAIN/tree/master/Christian_control)
-C++ control stack for the same dual-arm rig: a 500 Hz world-frame Cartesian loop on Kinova Kortex,
+C++ control stack I wrote for the same dual-arm rig (separate from the controller that ran the trials): a 500 Hz world-frame Cartesian loop on Kinova Kortex,
 mount velocity estimated from 100 Hz Vicon, and separate planning, runtime and tracking layers.
 
 ### [SAC vs PID for propofol anaesthesia](https://github.com/fechachris4/Reinforcement_learning_for_Anesthesia)
