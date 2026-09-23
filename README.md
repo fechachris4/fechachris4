@@ -10,7 +10,7 @@ Two Kinova Gen3 arms worn on the torso hold their end-effectors fixed in the roo
 Six participants on a treadmill: 72% of mount motion removed at 0.5 m/s, 56% at 1.5 m/s.
 The limit was a mount-velocity signal arriving 60-70 ms late; in simulation that delay alone
 erases feedforward's benefit (2.6 mm → 8.2 mm at 1.8 Hz). MuJoCo and Python, with a C++20 port
-that reproduces the Python trace to 2.4e-12. 258 Python tests and the C++ parity check run in CI.
+that reproduces the Python trace to 2.4e-12. 261 Python tests and the C++ parity check run in CI.
 
 ### [SRL hardware controller](https://github.com/fechachris4/HumanSL_MAIN/tree/master/Christian_control)
 C++ control stack for the same dual-arm rig: a 500 Hz world-frame Cartesian loop on Kinova Kortex,
