@@ -12,11 +12,11 @@ Two Kinova Gen3 arms worn on the torso hold their end-effectors fixed in the roo
 
 ### [C++ control stack for the same rig](https://github.com/fechachris4/HumanSL_MAIN/tree/master/Christian_control)
 
-A 500 Hz world-frame Cartesian controller on the Kinova Kortex API, with the mount velocity estimated from Vicon, and separate planning, runtime, and tracking layers. The planning, control, and panel tests run without the robot.
+A 400 Hz world-frame Cartesian controller on the Kinova Kortex API, with mount velocity estimated from Vicon.
 
 ### [Reinforcement learning vs a tuned PID for anaesthesia dosing](https://github.com/fechachris4/Reinforcement_learning_for_Anesthesia)
 
-During surgery, the propofol dose has to keep a patient at the right depth of anaesthesia. I tested Soft Actor-Critic against a well-tuned PID controller on 30 simulated patients it had never seen, with a noisy monitor signal delayed by 20 s. SAC learning corrections on top of the PID tied with it (85.3% vs 84.9% of time in the target range). Along the way the agent exploited a loophole in the induction phase, which I found and closed before the final results. Tests in CI reproduce the PID results exactly.
+During surgery, the propofol dose has to keep a patient at the right depth of anaesthesia. I tested Soft Actor-Critic against a well-tuned PID on 30 simulated patients it had never seen, with a noisy monitor signal delayed by 20 s. SAC learning corrections on top of the PID tied with it (85.3% vs 84.9% of time in the target range).
 
 ## Before robotics
 
