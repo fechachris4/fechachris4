@@ -8,7 +8,7 @@ Robotics engineer in London, interested in bringing AI into the physical world. 
 
 ### [Wearable robot arms that hold still while you walk](https://github.com/fechachris4/msc_project) (MSc thesis)
 
-Two Kinova Gen3 arms worn on the torso keep their end-effectors fixed in the room while the wearer walks. In treadmill trials with seven participants, the arms removed 56-71% of the mount motion, depending on walking speed. A MuJoCo study traces most of what is left to a late estimate of the mount's velocity. Python simulation, C++20 port, and unit tests in CI.
+Two Kinova Gen3 arms worn on the torso hold their end-effectors fixed in the room while the wearer walks. In treadmill trials with seven participants, they cancelled 56-71% of mount motion, depending on walking speed. A MuJoCo study attributes most of the residual to a late estimate of the mount's velocity.
 
 ### [C++ control stack for the same rig](https://github.com/fechachris4/HumanSL_MAIN/tree/master/Christian_control)
 
