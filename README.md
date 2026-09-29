@@ -1,6 +1,6 @@
 # Christian Akabueze
 
-Robotics engineer in London, interested in bringing AI into the physical world. I trained as a mechanical engineer and did my MSc in Human and Biological Robotics at Imperial College London (2026), working across control, machine learning, and hardware. I build controllers for real robots and test them on hardware.
+Robotics engineer in London. MSc in Human and Biological Robotics, Imperial College London (2026). AI and Robotics.
 
 <img src="https://github.com/fechachris4/msc_project/raw/main/media/rig.jpg" width="480" alt="A participant walking on a treadmill wearing two robot arms on the torso, with Vicon cameras around the rig">
 
